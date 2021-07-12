@@ -1,5 +1,6 @@
 {
   "name": "compare_interview",
+  "homepage": "https://NatBNW.github.io/compare_interview",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
